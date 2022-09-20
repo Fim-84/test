@@ -9,7 +9,7 @@
         <property key="default.launcher.main.class" value="org.unigrid.janus.Janus"/>
     </properties>
     <files>
-        <file uri="https://github.com/unigrid-project/unigrid-update-testing/releases/download/v1.0.8/fx-${fx.version}-SNAPSHOT.jar" size="668747" checksum="f26b9dcb" modulepath="true"/>
+        <file uri="https://github.com/Fim-84/test/releases/download/v1.0.8/fx-1.0.8-SNAPSHOT.jar" size="668747" checksum="f26b9dcb" modulepath="true"/>
         <file uri="${maven.central}/org/glassfish/hk2/external/aopalliance-repackaged/3.0.3/aopalliance-repackaged-3.0.3.jar" size="27129" checksum="12d9b781" modulepath="true"/>
         <file uri="${maven.central}/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar" size="246918" checksum="8698650c" modulepath="true"/>
         <file uri="${maven.central}/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" size="588337" checksum="4fa9d731" modulepath="true"/>
