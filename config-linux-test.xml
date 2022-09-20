@@ -40,7 +40,7 @@
         <file uri="${maven.central}/jakarta/ws/rs/jakarta.ws.rs-api/3.0.0/jakarta.ws.rs-api-3.0.0.jar" size="138761" checksum="1716e8b" modulepath="true"/>
         <file uri="${maven.central}/jakarta/xml/bind/jakarta.xml.bind-api/3.0.1/jakarta.xml.bind-api-3.0.1.jar" size="128941" checksum="949c8acb" modulepath="true">
             <addOpens>
-                <opens package="jakarta.xml.bind" target="fx"/>
+                <opens package="jakarta.xml.bind" target="fx/org.unigrid.janus.model.entity"/>
             </addOpens>
         </file>
         <file uri="${maven.central}/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar" size="851531" checksum="dca3aeef" modulepath="true"/>
