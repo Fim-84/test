@@ -75,6 +75,6 @@
         <file uri="${maven.central}/org/eclipse/yasson/2.0.0-M1/yasson-2.0.0-M1.jar" size="352107" checksum="642130d9" modulepath="true"/>
         <file uri="${maven.central}/com/evolvedbinary/j8fu/j8fu/1.23.0/j8fu-1.23.0.jar" size="204062" checksum="e4793f9e" modulepath="true"/>
         <file uri="${maven.central}/com/dustinredmond/fxtrayicon/FXTrayIcon/3.3.0/FXTrayIcon-3.3.0.jar" size="4248987" checksum="a34e5633" modulepath="true"/>
-        <file uri="https://github.com/unigrid-project/daemon/releases/download/v2.9.2/unigrid-2.9.2-x86_64-linux-gnu.tar.gz" size="7272566" checksum="4fe8011"/>
+        <file uri="https://github.com/unigrid-project/daemon/releases/download/v2.9.3/unigrid-2.9.3-x86_64-linux-gnu.tar.gz" size="7272566" checksum="4fe8011"/>
     </files>
 </configuration>
